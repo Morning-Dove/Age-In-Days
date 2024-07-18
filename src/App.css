@@ -5,4 +5,51 @@
   text-align: center;
 }
 
+header {
+  margin-bottom: 5%;
+}
 
+main {
+  border: 2px solid black;
+  border-radius: 5px;
+  margin: auto;
+  padding: 5%;
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-flow: column nowrap;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+div {
+  padding: 20px;
+}
+
+input {
+  background-color: rgb(165, 168, 170);
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  border: none;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+button {
+  padding: 8px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+#displayResults {
+  padding-top: 20px;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: flex-end;
+  margin-top: 30%;
+}
