@@ -2,6 +2,9 @@
 
 A simple React application using TypeScript that allows users to input their name and age, calculate the age in days, and display the results.
 
+To view this application through GitHub Pages click the link below:
+https://morning-dove.github.io/Age-In-Days/
+
 ## Features
 
 Input fields for name and age.
